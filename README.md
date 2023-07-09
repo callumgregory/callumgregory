@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @callumgregory
+# 👋 Hi, I’m @callumgregory
+
+Mathematics Graduate from the University of Bath
+
+## Public Academic Projects
+
+- 2020: Horner's Scheme (92%) https://github.com/callumgregory/Horner-s-Scheme-2020
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
