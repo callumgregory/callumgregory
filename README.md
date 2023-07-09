@@ -4,6 +4,7 @@ Mathematics Graduate from the University of Bath
 
 ## Public Academic Projects
 
+- 2021: Classical Cryptography (80%) https://github.com/callumgregory/Classical-Cryptography-2021
 - 2020: Horner's Scheme (92%) https://github.com/callumgregory/Horner-s-Scheme-2020
 
 - 👀 I’m interested in ...
