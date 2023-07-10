@@ -7,9 +7,9 @@ Below are a collection of projects I completed as a part of the Mathematics BSc 
 - Year 3: Analysis of a Latitude Dependent Energy Balance Model (95%) https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - Year 3: Stochastic Optimisation for Matrix Completion (74%) https://github.com/callumgregory/Stochastic-Optimisation-for-Matrix-Completion ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-- Year 3: Analysing Literature, Pollution and Crime Data (84%) https://github.com/callumgregory/Data-Science-2 
-- Year 3: Analysing Orchids, Hospital & Ambulance Data (78%) https://github.com/callumgregory/Data-Science-1
+- Year 3: Analysing Literature, Pollution and Crime Data (84%) https://github.com/callumgregory/Data-Science-2 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+- Year 3: Analysing Orchids, Hospital & Ambulance Data (78%) https://github.com/callumgregory/Data-Science-1 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
 
 ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
 - Year 2: Numerical Analysis (92%) https://github.com/callumgregory/Numerical-Analysis-2021
