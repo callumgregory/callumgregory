@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @callumgregory
 
-## Public Academic Projects
+## Academic Projects 2020-2023
 
 - Year 3: Analysis of a Latitude Dependent Energy Balance Model (95%) https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model
 - Year 3: Data Science 2 (84%) https://github.com/callumgregory/Data-Science-2
