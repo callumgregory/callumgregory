@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @callumgregory
 
-Mathematics Graduate from the University of Bath
-
 ## Public Academic Projects
 
 - 2021: Classical Cryptography (80%) https://github.com/callumgregory/Classical-Cryptography-2021
