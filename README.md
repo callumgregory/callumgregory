@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @callumgregory
 
-Below is a collection of projects I completed - in a variety of different languages such as Python, R and MATLAB - as a part of the Mathematics BSc (Hons) at the University of Bath. 
+Below is a collection of projects I completed as a part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
 
