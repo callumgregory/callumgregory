@@ -4,7 +4,7 @@ Below are a collection of projects I completed as a part of the Mathematics BSc 
 
 ## Academic Projects 2020-2023
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54_flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)_flat
 - Year 3: Analysis of a Latitude Dependent Energy Balance Model (95%) https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model
 - Year 3: Stochastic Optimisation for Matrix Completion (74%) https://github.com/callumgregory/Stochastic-Optimisation-for-Matrix-Completion
 
