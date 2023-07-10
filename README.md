@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @callumgregory
-<img align="right" alt="Coding" width="400" src="["C:\Users\callu\Downloads\IMG20220906124811.jpg"](https://unsplash.com/photos/aZjw7xI3QAA)">
+<img align="right" alt="Coding" width="400" src="(https://unsplash.com/photos/aZjw7xI3QAA)">
 
 Below are a collection of projects I completed as a part of the Mathematics BSc (Hons) at the University of Bath. 
 
