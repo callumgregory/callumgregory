@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @callumgregory
 
-Below is a collection of projects I completed as a part of the Mathematics BSc (Hons) at the University of Bath. 
+Below are a collection of projects I completed as a part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
 
