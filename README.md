@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @callumgregory
 
-Below are a collection of projects I completed as a part of the Mathematics BSc (Hons) at the University of Bath. 
+Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
 - Year 3: Analysis of a Latitude Dependent Energy Balance Model (95%) https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
