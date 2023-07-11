@@ -16,3 +16,4 @@ Below are a collection of projects I completed as part of the Mathematics BSc (H
 callumgregory/callumgregory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![the sea edition](https://github.com/callumgregory/callumgregory/assets/139076366/f133a42d-2142-4944-becf-515c8b5001d5)
