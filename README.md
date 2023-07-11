@@ -1,6 +1,9 @@
-<p align=”center”>
-<img src=”![the sea edition](https://github.com/callumgregory/callumgregory/assets/139076366/f133a42d-2142-4944-becf-515c8b5001d5)">
+<p align="center">
+  <img src="the sea edition.png">
 </p>
+
+![the sea edition](https://github.com/callumgregory/callumgregory/assets/139076366/f133a42d-2142-4944-becf-515c8b5001d5)
+
 
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
