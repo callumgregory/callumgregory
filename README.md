@@ -2,6 +2,8 @@
   <img src="THANK YOU Banner Landscape.png">
 </p>
 
+![Uploading intro pic.gif…]()
+
 
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
