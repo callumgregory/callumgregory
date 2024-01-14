@@ -8,8 +8,8 @@ Below are a collection of projects I completed as part of the Mathematics BSc (H
 - Year 3: [Analysing Orchids, Hospital & Ambulance Data](https://github.com/callumgregory/Analysing-Orchids-Hospital-Ambulance-Data) (78%) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 - Year 3: [Stochastic Optimisation for Matrix Completion](https://github.com/callumgregory/Stochastic-Optimisation-for-Matrix-Completion) (74%) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - Year 2: [Numerical Analysis](https://github.com/callumgregory/Numerical-Analysis-2021) (92%) ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
-- Year 1: Classical Cryptography (80%) https://github.com/callumgregory/Classical-Cryptography-2021 ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
-- Year 1: Horner's Scheme (92%) https://github.com/callumgregory/Horner-s-Scheme-2020 ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
+- Year 1: [Classical Cryptography](https://github.com/callumgregory/Classical-Cryptography-2021) (80%) ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
+- Year 1: [Horner's Scheme](https://github.com/callumgregory/Horner-s-Scheme-2020) (92%) ![Static Badge](https://img.shields.io/badge/MATLAB-blue)
 
 <!---
 callumgregory/callumgregory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
