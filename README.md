@@ -2,9 +2,6 @@
   <img src="THANK YOU Banner Landscape.png">
 </p>
 
-<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
-
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
