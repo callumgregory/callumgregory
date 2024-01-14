@@ -3,10 +3,6 @@
 </p>
 
 
-https://github.com/callumgregory/callumgregory/assets/139076366/b915e055-c881-4727-9823-a3a965cbadac
-![Untitled video](https://github.com/callumgregory/callumgregory/assets/139076366/3156c39e-dcc6-4cbc-a8ba-445450383a2a)
-
-
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
