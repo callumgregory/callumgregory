@@ -2,12 +2,6 @@
   <img src="THANK YOU Banner Landscape.png">
 </p>
 
-$ npm i @auroratide/typewritten-text
-import '@auroratide/typewritten-text/lib/style.css'
-import '@auroratide/typewritten-text/lib/define.js'
-
-<p>Some <typewritten-text>text to type out!</typewritten-text></p>
-
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
