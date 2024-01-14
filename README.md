@@ -2,6 +2,10 @@
   <img src="THANK YOU Banner Landscape.png">
 </p>
 
+
+https://github.com/callumgregory/callumgregory/assets/139076366/b915e055-c881-4727-9823-a3a965cbadac
+
+
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
 ## Academic Projects 2020-2023
