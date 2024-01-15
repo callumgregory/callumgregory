@@ -2,7 +2,7 @@
 
 ## Academic Projects 2020-2023
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
-- Year 3: [Analysis of a Latitude Dependent Energy Balance Model](https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white) (**95%**)
+- Year 3: [Analysis of a Latitude Dependent Energy Balance Model](https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) (**95%**)
 - Year 3: [Analysing Literature, Pollution & Crime Data](https://github.com/callumgregory/Analysing-Literature-Pollution-and-Crime-Data) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) (**84%**)
 - Year 3: [Analysing Orchids, Hospital & Ambulance Data](https://github.com/callumgregory/Analysing-Orchids-Hospital-Ambulance-Data) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) (**78%**)
 - Year 3: [Stochastic Optimisation for Matrix Completion](https://github.com/callumgregory/Stochastic-Optimisation-for-Matrix-Completion) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) (**74%**)
