@@ -1,5 +1,4 @@
-<img src="https://github.com/callumgregory/callumgregory/assets/139076366/46257324-5831-4c96-86a0-b15d10d42c19" width="1280"/>
-<br>
+<img src="https://github.com/callumgregory/callumgregory/assets/139076366/46257324-5831-4c96-86a0-b15d10d42c19" width="1280"/><br>
 
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 
