@@ -1,8 +1,7 @@
 <img src="https://github.com/callumgregory/callumgregory/assets/139076366/46257324-5831-4c96-86a0-b15d10d42c19" width="1280"/><br>
 
-Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
-
 ## Academic Projects 2020-2023
+Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 - Year 3: [Analysis of a Latitude Dependent Energy Balance Model](https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) (**95%**)
 - Year 3: [Analysing Literature, Pollution & Crime Data](https://github.com/callumgregory/Analysing-Literature-Pollution-and-Crime-Data) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) (**84%**)
 - Year 3: [Analysing Orchids, Hospital & Ambulance Data](https://github.com/callumgregory/Analysing-Orchids-Hospital-Ambulance-Data) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) (**78%**)
