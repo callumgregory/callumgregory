@@ -12,7 +12,7 @@ Below are a collection of projects I completed as part of the Mathematics BSc (H
 
 ## Additonal Projects
 Below are a collection of projects I completed with the aim of demonstrating different skills I have taught myself.
-- Learning the basics of SQL/MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Learning the basics of SQL/MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 <!---
 callumgregory/callumgregory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
