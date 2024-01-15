@@ -10,6 +10,10 @@ Below are a collection of projects I completed as part of the Mathematics BSc (H
 - Year 1: [Classical Cryptography](https://github.com/callumgregory/Classical-Cryptography-2021) ![Static Badge](https://img.shields.io/badge/MATLAB-blue)  (**80%**)
 - Year 1: [Horner's Scheme](https://github.com/callumgregory/Horner-s-Scheme-2020) ![Static Badge](https://img.shields.io/badge/MATLAB-blue)  (**92%**)
 
+## Additonal Projects
+Below are a collection of projects I completed with the aim of demonstrating different skills I have taught myself.
+- Learning the basics of SQL/MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!---
 callumgregory/callumgregory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
