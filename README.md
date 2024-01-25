@@ -1,5 +1,8 @@
 <img src="https://github.com/callumgregory/callumgregory/assets/139076366/46257324-5831-4c96-86a0-b15d10d42c19" width="1280"/><br>
 
+![](https://github.com/callumgregory/callumgregory/blob/main/intro%20gif.gif)
+
+
 ## Academic Projects 2020-2023
 Below are a collection of projects I completed as part of the Mathematics BSc (Hons) at the University of Bath. 
 - Year 3: [Analysis of a Latitude Dependent Energy Balance Model](https://github.com/callumgregory/Analysis-of-a-Latitude-Dependent-Energy-Balance-Model) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) (**95%**)
