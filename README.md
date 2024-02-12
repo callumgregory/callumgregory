@@ -15,6 +15,7 @@ Below are a collection of projects I completed with the aim of demonstrating dif
 - [Learning the basics of SQL/MySQL](https://github.com/callumgregory/Learning-the-basics-of-SQL-MySQL) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - [Mastering the Basics of Pivot Tables for Data Analysis](https://github.com/callumgregory/Excel---Pivot-Tables-) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - [Power BI for Business Users](https://github.com/callumgregory/Power-BI-for-Business-Users-) ![Power Bi](https://img.shields.io/badge/Power_BI-%23E5A00D.svg?style=flat&logo=powerbi&logoColor=white)
+- [Creating Dashboards in Power BI](https://github.com/callumgregory/Creating-Dashboards-in-Power-BI) ![Power Bi](https://img.shields.io/badge/Power_BI-%23E5A00D.svg?style=flat&logo=powerbi&logoColor=white)
 
 <!---
 callumgregory/callumgregory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
